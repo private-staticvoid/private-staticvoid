@@ -1,7 +1,7 @@
 <!-- Snake Animation -->
 <div align="center">
     
-  ![snake gif](https://github.com/private-static.void/private-static.void/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/private-staticvoid/private-staticvoid/blob/output/github-snake-dark.svg)
 </div>
 
 <!-- Stats -->
