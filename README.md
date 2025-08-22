@@ -1,4 +1,8 @@
-![snake gif](https://github.com/private-static.void/private-static.void/blob/output/github-snake-dark.svg)
+<!-- Snake Animation -->
+<div align="center">
+    
+  ![snake gif](https://github.com/private-static.void/private-static.void/blob/output/github-snake-dark.svg)
+</div>
 
 <!-- Stats -->
 <div align="center">
@@ -28,11 +32,6 @@
 
 
 
-<!-- Snake Animation -->
-<div align="center">
-    
-  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
-</div>
 
 
 
