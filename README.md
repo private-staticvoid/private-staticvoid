@@ -38,8 +38,8 @@
 
 # 📊 Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=private-staticvoid&theme=jolly&hide_border=false&include_all_commits=false&count_private=false" 
+  <img src="https://github-readme-stats.vercel.app/api?username=private-staticvoid&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false" 
        alt="GitHub Stats" width="380px"/>&nbsp;&nbsp;
-  <img src="https://nirzak-streak-stats.vercel.app/?user=private-staticvoid&theme=jolly&hide_border=false" 
+  <img src="https://nirzak-streak-stats.vercel.app/?user=private-staticvoid&theme=graywhite&hide_border=false" 
        alt="GitHub Streak" width="415px"/>
 </p>
