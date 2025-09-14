@@ -1,14 +1,15 @@
 
 <div align="center">
   <h1>
-      <img height="50" 
+      <img height="60" 
          src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWpzZ28wY2p2Nmo0eW04aDZ4ODNpNTNtMmN5MGF2dGE1c245MGxrciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/K7o9FdCoDnwEo/giphy.gif" />
     Yoo, I'm Aki 
-    <img height="50" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjlvc3kzaXZsZmZpZmRmNmE4c2Fud3ZwNzY0a3l5d3h3dGM4bmJ4dSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/gUNA7QH4AeLde/giphy.gif" />
-      <img height="50" 
+    <img height="60" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjlvc3kzaXZsZmZpZmRmNmE4c2Fud3ZwNzY0a3l5d3h3dGM4bmJ4dSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/gUNA7QH4AeLde/giphy.gif" />
+      <img height="60" 
          src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWpzZ28wY2p2Nmo0eW04aDZ4ODNpNTNtMmN5MGF2dGE1c245MGxrciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/K7o9FdCoDnwEo/giphy.gif" />
   </h1>
 </div>
+
 <!-- Snake Animation -->
 <div align="center">
     
@@ -17,20 +18,12 @@
 
 
 
-
 <!-- Tech Stack -->
-
-  
 <h1>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHphZXpjcnhmdnZlZnJiNm1veDYwYXM0azlhbDlpeTdjaWgzM2txdCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" 
-       height="50" style="vertical-align: text-bottom;" />
+  <img height="55" src="https://github.com/private-staticvoid/private-staticvoid/blob/main/gif/lappy.gif" />
   Tech Stack
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTZ5aXpjZWdrMHpjOWlpcGY5MjNzbW43cjJuYmE1dW9tNzgwOHB4NiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/bntU5YJlsJHrM9oJkV/giphy.gif" 
-       height="50" style="vertical-align: text-bottom;" />
+ 
 </h1>
-
-
-
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -57,11 +50,10 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-
-<h1 align="center">
-  📊 Stats
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZzU4Z2dlZmsxMnFzaG8wc2t3b29qNnNoajRtOTZra3Fmd2p4bnYxOCZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/MghzLrPrZP1oiy7Pge/giphy.gif" 
-       height="50" />
+<h1>
+  <img src="https://github.com/private-staticvoid/private-staticvoid/blob/main/gif/mario.webp" 
+       height="50" style="vertical-align: middle;" />
+  Stats
 </h1>
 
 <p align="center">
@@ -70,3 +62,9 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=private-staticvoid&hide_border=false&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" 
        alt="GitHub Streak" width="415px"/>
 </p>
+
+<div align="center">
+  <a href="https://bongo.cat" target="_blank">
+    <img src="https://media.giphy.com/media/UQ1EI1ML2ABQdbebup/giphy.gif" width="250">
+  </a>
+</div>
