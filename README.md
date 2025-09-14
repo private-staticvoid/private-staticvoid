@@ -1,5 +1,9 @@
-# Yoo, I'm Aki 🌊
-
+<div>
+  <h1>
+    Yoo, I'm Aki 
+    <img height="50" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjlvc3kzaXZsZmZpZmRmNmE4c2Fud3ZwNzY0a3l5d3h3dGM4bmJ4dSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/gUNA7QH4AeLde/giphy.gif" />
+  </h1>
+</div>
 <!-- Snake Animation -->
 <div align="center">
     
@@ -12,7 +16,18 @@
 <!-- Tech Stack -->
 
   
-# 💻 Tech Stack ⚡
+<div align="center">
+  <h1 style="display: inline-flex; align-items: center; gap: 8px;">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHphZXpjcnhmdnZlZnJiNm1veDYwYXM0azlhbDlpeTdjaWgzM2txdCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" 
+         height="50" />
+    Tech Stack
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTZ5aXpjZWdrMHpjOWlpcGY5MjNzbW43cjJuYmE1dW9tNzgwOHB4NiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/bntU5YJlsJHrM9oJkV/giphy.gif" 
+         height="50" />
+  </h1>
+</div>
+
+
+
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -34,8 +49,11 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-</div>
+
 
 
 # 📊 Stats
