@@ -38,8 +38,9 @@
 
 # 📊 Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=private-staticvoid&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false" 
+  <img src="https://github-readme-stats.vercel.app/api?username=private-staticvoid&hide_border=false&include_all_commits=false&count_private=false&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" 
        alt="GitHub Stats" width="380px"/>&nbsp;&nbsp;
-  <img src="https://nirzak-streak-stats.vercel.app/?user=private-staticvoid&theme=graywhite&hide_border=false" 
+  <img src="https://nirzak-streak-stats.vercel.app/?user=private-staticvoid&hide_border=false&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" 
        alt="GitHub Streak" width="415px"/>
 </p>
+
