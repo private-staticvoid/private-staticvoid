@@ -1,4 +1,4 @@
-# Yoo, I'm Aki
+# Yoo, I'm Aki 🌊
 
 <!-- Snake Animation -->
 <div align="center">
