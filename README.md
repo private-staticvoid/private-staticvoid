@@ -1,7 +1,12 @@
-<div>
+
+<div align="center">
   <h1>
+      <img height="50" 
+         src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWpzZ28wY2p2Nmo0eW04aDZ4ODNpNTNtMmN5MGF2dGE1c245MGxrciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/K7o9FdCoDnwEo/giphy.gif" />
     Yoo, I'm Aki 
     <img height="50" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjlvc3kzaXZsZmZpZmRmNmE4c2Fud3ZwNzY0a3l5d3h3dGM4bmJ4dSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/gUNA7QH4AeLde/giphy.gif" />
+      <img height="50" 
+         src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWpzZ28wY2p2Nmo0eW04aDZ4ODNpNTNtMmN5MGF2dGE1c245MGxrciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/K7o9FdCoDnwEo/giphy.gif" />
   </h1>
 </div>
 <!-- Snake Animation -->
@@ -16,15 +21,14 @@
 <!-- Tech Stack -->
 
   
-<div align="center">
-  <h1 style="display: inline-flex; align-items: center; gap: 8px;">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHphZXpjcnhmdnZlZnJiNm1veDYwYXM0azlhbDlpeTdjaWgzM2txdCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" 
-         height="50" />
-    Tech Stack
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTZ5aXpjZWdrMHpjOWlpcGY5MjNzbW43cjJuYmE1dW9tNzgwOHB4NiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/bntU5YJlsJHrM9oJkV/giphy.gif" 
-         height="50" />
-  </h1>
-</div>
+<h1>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHphZXpjcnhmdnZlZnJiNm1veDYwYXM0azlhbDlpeTdjaWgzM2txdCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" 
+       height="50" style="vertical-align: text-bottom;" />
+  Tech Stack
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTZ5aXpjZWdrMHpjOWlpcGY5MjNzbW43cjJuYmE1dW9tNzgwOHB4NiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/bntU5YJlsJHrM9oJkV/giphy.gif" 
+       height="50" style="vertical-align: text-bottom;" />
+</h1>
+
 
 
 
@@ -54,13 +58,15 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 
+<h1 align="center">
+  📊 Stats
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZzU4Z2dlZmsxMnFzaG8wc2t3b29qNnNoajRtOTZra3Fmd2p4bnYxOCZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/MghzLrPrZP1oiy7Pge/giphy.gif" 
+       height="50" />
+</h1>
 
-
-# 📊 Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=private-staticvoid&hide_border=false&include_all_commits=false&count_private=false&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" 
        alt="GitHub Stats" width="380px"/>&nbsp;&nbsp;
   <img src="https://nirzak-streak-stats.vercel.app/?user=private-staticvoid&hide_border=false&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" 
        alt="GitHub Streak" width="415px"/>
 </p>
-
