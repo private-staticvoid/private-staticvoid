@@ -31,7 +31,7 @@ const aki = {
   major:       "Mobile and Web Applications",
   honors:      "Dean's List, every term since first year",
   building:    "Web + mobile business management system with AI automation and CRM",
-  interests:   ["Tech", "Plants", "Food", "Volleyball"],
+  interests:   ["Authentication & Security", "Data", "AI"],
   location:    "Metro Manila, PH",
 };
 ```
@@ -111,10 +111,10 @@ const aki = {
 
 | Project | What it is | Built with |
 |---|---|---|
-| **[Manubizz](https://www.jnlconcreteproductsmanufacturing.page/)** *(capstone)* | Live web + mobile business management system with AI-powered automation and CRM, built for J&L Concrete Products Manufacturing | React, Tailwind, Node.js, Express, MongoDB, Flutter, Dialogflow, Heroku |
+| **[Manubizz](https://www.jnlconcreteproductsmanufacturing.page/)** *(capstone)* | **Manubizz: A Web and Mobile Smart Business Management with AI-Powered Automation and Integrated Customer Relationship Management (CRM) for Intelligent Decision Support.** Live system built for J&L Concrete Products Manufacturing | React, Tailwind, Node.js, Express, MongoDB, Flutter, Dialogflow, Heroku |
 | **ShopTalk** | Flutter shopping app with cart, profiles and real-time chat | Flutter, Dart, Firebase Auth, Cloud Firestore |
 | **[Crème & Crumbs](https://cremecrumbs.vercel.app/)** | Live ordering website for a local pastry shop in Marikina | React, JavaScript, Tailwind CSS, Vercel |
-| **ChickBites** | Restaurant order management system for order-taking, kitchen tracking and transactions | Java, Java Swing, SQL |
+| **[ChickBites](https://chickbitess.netlify.app/)** | Restaurant order management system for order-taking, kitchen tracking and transactions, plus a live web ordering site | Java, Java Swing, SQL, Netlify |
 | **BulldogEx Shop** | Campus e-commerce front end with catalog, product pages and auth screens | React 19, Vite, React Router, Tailwind CSS 4 |
 
 <!-- Stats -->
