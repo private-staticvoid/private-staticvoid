@@ -29,9 +29,9 @@ const aki = {
   alsoDoes:    ["Full-Stack", "Back End", "App Security"],
   education:   "BS Information Technology, National University – Manila",
   major:       "Mobile and Web Applications",
-  honors:      "Dean's List, every term since first year",
+  honors:      "Dean's List 1st Honor, every term since first year",
   building:    "Web + mobile business management system with AI automation and CRM",
-  interests:   ["Authentication & Security", "Data", "AI"],
+  interests:   [""Front End", Authentication & Security", "Data", "AI"],
   location:    "Metro Manila, PH",
 };
 ```
