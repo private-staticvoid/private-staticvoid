@@ -1,32 +1,28 @@
-
 <div align="center">
 
+<h1>
+  <img height="60" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWpzZ28wY2p2Nmo0eW04aDZ4ODNpNTNtMmN5MGF2dGE1c245MGxrciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/K7o9FdCoDnwEo/giphy.gif" />
+  Yoo, I'm Aki
+  <img height="60" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjlvc3kzaXZsZmZpZmRmNmE4c2Fud3ZwNzY0a3l5d3h3dGM4bmJ4dSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/gUNA7QH4AeLde/giphy.gif" />
+  <img height="60" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWpzZ28wY2p2Nmo0eW04aDZ4ODNpNTNtMmN5MGF2dGE1c245MGxrciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/K7o9FdCoDnwEo/giphy.gif" />
+</h1>
 
-  <h1>
-      <img height="60" 
-         src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWpzZ28wY2p2Nmo0eW04aDZ4ODNpNTNtMmN5MGF2dGE1c245MGxrciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/K7o9FdCoDnwEo/giphy.gif" />
-    Yoo, I'm Aki 
-    <img height="60" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjlvc3kzaXZsZmZpZmRmNmE4c2Fud3ZwNzY0a3l5d3h3dGM4bmJ4dSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/gUNA7QH4AeLde/giphy.gif" />
-      <img height="60" 
-         src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWpzZ28wY2p2Nmo0eW04aDZ4ODNpNTNtMmN5MGF2dGE1c245MGxrciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/K7o9FdCoDnwEo/giphy.gif" />
-  </h1>
 </div>
 
 <!-- Snake Animation -->
 <div align="center">
-    
-  ![snake gif](https://github.com/private-staticvoid/private-staticvoid/blob/output/github-snake-dark.svg)
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/private-staticvoid/private-staticvoid/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/private-staticvoid/private-staticvoid/output/github-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/private-staticvoid/private-staticvoid/output/github-snake-dark.svg" />
+  </picture>
 </div>
-
-
 
 <!-- Tech Stack -->
 <h1>
-  <img height="55" src="https://github.com/private-staticvoid/private-staticvoid/blob/main/gif/lappy.gif" />
+  <img height="55" src="https://raw.githubusercontent.com/private-staticvoid/private-staticvoid/main/gif/lappy.gif" />
   Tech Stack
- 
 </h1>
-
 
 <div align="center">
 
@@ -41,7 +37,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Database](https://img.shields.io/badge/Database-%2300758F.svg?style=for-the-badge&logo=database&logoColor=white)
+![Database](https://img.shields.io/badge/Database-%2300758F.svg?style=for-the-badge)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
@@ -63,20 +59,18 @@
 
 </div>
 
+<!-- Stats -->
 <h1>
-  <img src="https://github.com/private-staticvoid/private-staticvoid/blob/main/gif/mario.webp" 
-       height="50" style="vertical-align: middle;" />
+  <img height="50" src="https://raw.githubusercontent.com/private-staticvoid/private-staticvoid/main/gif/mario.webp" />
   Stats
 </h1>
 
-
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=private-staticvoid&hide_border=false&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" 
-       alt="GitHub Streak" width="415px"/>
+  <img alt="GitHub Streak" width="415" src="https://streak-stats.demolab.com/?user=private-staticvoid&theme=dark&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" />
 </p>
 
 <div align="center">
   <a href="https://bongo.cat" target="_blank">
-    <img src="https://media.giphy.com/media/UQ1EI1ML2ABQdbebup/giphy.gif" width="250">
+    <img width="250" src="https://media.giphy.com/media/UQ1EI1ML2ABQdbebup/giphy.gif" />
   </a>
 </div>
