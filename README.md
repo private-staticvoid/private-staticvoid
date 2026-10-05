@@ -29,9 +29,9 @@ const aki = {
   alsoDoes:    ["Full-Stack", "Back End", "App Security"],
   education:   "BS Information Technology, National University – Manila",
   major:       "Mobile and Web Applications",
-  honors:      "Dean's List 1st Honor, every term since first year",
+  honors:      "Dean's List, every term since first year",
   building:    "Web + mobile business management system with AI automation and CRM",
-  interests:   [""Front End", Authentication & Security", "Data", "AI"],
+  interests:   ["Tech", "Plants", "Food"],
   location:    "Metro Manila, PH",
 };
 ```
@@ -133,11 +133,11 @@ const aki = {
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pagaoaachilestroy@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/AchilesTroyPagaoa)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/private-staticvoid)
 
 <a href="https://bongo.cat" target="_blank">
   <img width="250" src="https://media.giphy.com/media/UQ1EI1ML2ABQdbebup/giphy.gif" />
 </a>
 
-</div>
 </div>
