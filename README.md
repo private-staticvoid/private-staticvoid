@@ -111,7 +111,7 @@ const aki = {
 
 | Project | What it is | Built with |
 |---|---|---|
-| **Smart Business Management System** *(capstone)* | Web + mobile platform with AI-powered automation and integrated CRM for decision support | React, Tailwind, Node.js, Express, MongoDB, Flutter, Dialogflow, Heroku |
+| **ManuBizz | Smart Business Management System** *(capstone)* | Web + mobile platform with AI-powered automation and integrated CRM for decision support | React, Tailwind, Node.js, Express, MongoDB, Flutter, Dialogflow, Heroku |
 | **ShopTalk** | Flutter shopping app with cart, profiles and real-time chat | Flutter, Dart, Firebase Auth, Cloud Firestore |
 | **[Crème & Crumbs](https://cremecrumbs.vercel.app/)** | Live ordering website for a local pastry shop in Marikina | React, JavaScript, Tailwind CSS, Vercel |
 | **ChickBites** | Restaurant order management system for order-taking, kitchen tracking and transactions | Java, Java Swing, SQL |
