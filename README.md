@@ -31,7 +31,7 @@ const aki = {
   major:       "Mobile and Web Applications",
   honors:      "Dean's List, every term since first year",
   building:    "Web + mobile business management system with AI automation and CRM",
-  interests:   ["Authentication & Security", "Data", "AI"],
+  interests:   ["Tech", "Plants", "Food", "Volleyball"],
   location:    "Metro Manila, PH",
 };
 ```
