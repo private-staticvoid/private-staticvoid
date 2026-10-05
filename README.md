@@ -31,7 +31,7 @@ const aki = {
   major:       "Mobile and Web Applications",
   honors:      "Dean's List, every term since first year",
   building:    "Web + mobile business management system with AI automation and CRM",
-  interests:   ["Tech", "Plants", "Food"],
+  interests:   ["Authentication & Security", "Data", "AI"],
   location:    "Metro Manila, PH",
 };
 ```
@@ -111,7 +111,7 @@ const aki = {
 
 | Project | What it is | Built with |
 |---|---|---|
-| **Manubizz** *(capstone)* | Web + mobile platform with AI-powered automation and integrated CRM for decision support | React, Tailwind, Node.js, Express, MongoDB, Flutter, Dialogflow, Heroku |
+| **[Manubizz](https://www.jnlconcreteproductsmanufacturing.page/)** *(capstone)* | Live web + mobile business management system with AI-powered automation and CRM, built for J&L Concrete Products Manufacturing | React, Tailwind, Node.js, Express, MongoDB, Flutter, Dialogflow, Heroku |
 | **ShopTalk** | Flutter shopping app with cart, profiles and real-time chat | Flutter, Dart, Firebase Auth, Cloud Firestore |
 | **[Crème & Crumbs](https://cremecrumbs.vercel.app/)** | Live ordering website for a local pastry shop in Marikina | React, JavaScript, Tailwind CSS, Vercel |
 | **ChickBites** | Restaurant order management system for order-taking, kitchen tracking and transactions | Java, Java Swing, SQL |
